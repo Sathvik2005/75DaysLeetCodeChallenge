@@ -10,6 +10,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0049-group-anagrams](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0238-product-of-array-except-self](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
