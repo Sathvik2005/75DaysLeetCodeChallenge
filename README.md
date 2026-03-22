@@ -13,6 +13,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0283-move-zeroes) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,9 @@
 | [0125-valid-palindrome](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0283-move-zeroes) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
