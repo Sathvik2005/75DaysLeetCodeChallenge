@@ -17,6 +17,7 @@
 | [0015-3sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
 | [0011-container-with-most-water](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0643-maximum-average-subarray-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
