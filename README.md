@@ -46,6 +46,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0020-valid-parentheses](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,4 +113,12 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
