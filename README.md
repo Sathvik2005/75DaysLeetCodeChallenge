@@ -102,10 +102,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
+| [0155-min-stack](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0155-min-stack) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
+| [0155-min-stack](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0155-min-stack) |
 ## Queue
 |  |
 | ------- |
