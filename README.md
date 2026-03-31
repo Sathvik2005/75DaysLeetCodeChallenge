@@ -18,6 +18,7 @@
 | [0011-container-with-most-water](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [0189-rotate-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0015-3sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
 | [0011-container-with-most-water](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
+| [0189-rotate-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
