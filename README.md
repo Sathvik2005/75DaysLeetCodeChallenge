@@ -19,6 +19,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0189-rotate-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0020-valid-parentheses](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0155-min-stack](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0155-min-stack) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Design
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 | [0189-rotate-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Simulation
 |  |
 | ------- |
