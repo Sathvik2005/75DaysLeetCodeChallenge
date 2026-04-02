@@ -20,6 +20,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0189-rotate-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0155-min-stack](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0155-min-stack) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
