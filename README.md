@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
+| [0704-binary-search](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
