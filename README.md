@@ -23,6 +23,7 @@
 | [0739-daily-temperatures](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 | [0704-binary-search](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
