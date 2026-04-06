@@ -26,6 +26,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0485-max-consecutive-ones) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0015-3sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0015-3sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
 | [0011-container-with-most-water](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
+| [0075-sort-colors](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
