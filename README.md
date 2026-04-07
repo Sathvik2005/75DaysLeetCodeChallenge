@@ -28,6 +28,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0169-majority-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0015-3sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -62,6 +65,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0169-majority-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -74,6 +78,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0169-majority-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 ## Quickselect
 |  |
 | ------- |
