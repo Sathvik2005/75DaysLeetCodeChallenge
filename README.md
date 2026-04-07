@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0485-max-consecutive-ones) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0075-sort-colors) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0035-search-insert-position](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 ## Greedy
 |  |
 | ------- |
