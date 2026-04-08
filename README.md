@@ -29,6 +29,7 @@
 | [0075-sort-colors](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [0053-maximum-subarray](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0169-majority-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [0053-maximum-subarray](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0053-maximum-subarray](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
