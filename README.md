@@ -163,8 +163,10 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0206-reverse-linked-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0206-reverse-linked-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
