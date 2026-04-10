@@ -30,6 +30,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0053-maximum-subarray](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0169-majority-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0141-linked-list-cycle](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
+| [0073-set-matrix-zeroes](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
 | ------- |
