@@ -42,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0169-majority-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [0141-linked-list-cycle](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0011-container-with-most-water](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
 | [0075-sort-colors](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
