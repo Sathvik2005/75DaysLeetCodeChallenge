@@ -104,6 +104,7 @@
 | [0189-rotate-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
 | [0075-sort-colors](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0206-reverse-linked-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
