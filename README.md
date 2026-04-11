@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0053-maximum-subarray](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,4 +178,8 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
