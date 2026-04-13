@@ -107,6 +107,7 @@
 | [0141-linked-list-cycle](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0143-reorder-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0143-reorder-list) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [0141-linked-list-cycle](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0143-reorder-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0143-reorder-list) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
