@@ -188,4 +188,20 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0136-single-number) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
