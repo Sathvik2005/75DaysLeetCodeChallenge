@@ -192,16 +192,20 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
