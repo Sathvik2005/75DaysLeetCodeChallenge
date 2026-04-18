@@ -198,6 +198,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0100-same-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0572-subtree-of-another-tree) |
+| [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,12 +206,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0100-same-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0572-subtree-of-another-tree) |
+| [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0100-same-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -218,6 +221,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0100-same-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0572-subtree-of-another-tree) |
+| [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
 ## String Matching
 |  |
 | ------- |
