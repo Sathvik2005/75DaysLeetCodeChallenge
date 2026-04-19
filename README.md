@@ -199,6 +199,7 @@
 | [0100-same-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [0100-same-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [0100-same-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
