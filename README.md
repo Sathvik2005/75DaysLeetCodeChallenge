@@ -200,6 +200,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -233,4 +236,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
