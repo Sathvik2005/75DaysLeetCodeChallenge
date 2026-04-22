@@ -201,6 +201,7 @@
 | [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0098-validate-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 | [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0098-validate-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -240,4 +243,5 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
