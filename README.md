@@ -69,6 +69,7 @@
 | [0020-valid-parentheses](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0155-min-stack](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Queue
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -255,4 +258,5 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
