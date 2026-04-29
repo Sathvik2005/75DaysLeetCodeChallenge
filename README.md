@@ -34,6 +34,7 @@
 | [0136-single-number](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0136-single-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [0014-longest-common-prefix](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0141-linked-list-cycle](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0073-set-matrix-zeroes](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0036-valid-sudoku](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0036-valid-sudoku](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 ## Linked List
 |  |
 | ------- |
