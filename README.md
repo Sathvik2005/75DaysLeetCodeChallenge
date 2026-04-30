@@ -35,6 +35,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [0014-longest-common-prefix](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0036-valid-sudoku](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -265,4 +267,8 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0014-longest-common-prefix](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
