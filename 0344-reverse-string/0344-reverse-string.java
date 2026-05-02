@@ -11,5 +11,6 @@ class Solution {
             // Move pointers towards the middle
             left++;
             right--;
+        }
     }
 }
