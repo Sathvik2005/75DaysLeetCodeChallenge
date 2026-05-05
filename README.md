@@ -38,6 +38,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0016-3sum-closest](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0075-sort-colors](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0016-3sum-closest](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0016-3sum-closest) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [0344-reverse-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0016-3sum-closest](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0016-3sum-closest) |
 ## Binary Search
 |  |
 | ------- |
