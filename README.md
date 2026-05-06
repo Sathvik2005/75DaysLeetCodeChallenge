@@ -39,6 +39,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0016-3sum-closest](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0016-3sum-closest) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -154,6 +157,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 ## Stack
 |  |
 | ------- |
