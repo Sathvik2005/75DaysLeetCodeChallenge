@@ -41,6 +41,7 @@
 | [0016-3sum-closest](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0904-fruit-into-baskets) |
+| [0496-next-greater-element-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0904-fruit-into-baskets) |
 | [0567-permutation-in-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0567-permutation-in-string) |
+| [0496-next-greater-element-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 | [0143-reorder-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -200,6 +203,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
+| [0496-next-greater-element-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
