@@ -60,6 +60,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0904-fruit-into-baskets) |
+| [0567-permutation-in-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0014-longest-common-prefix](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0344-reverse-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0016-3sum-closest](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0016-3sum-closest) |
+| [0567-permutation-in-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +164,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0904-fruit-into-baskets) |
+| [0567-permutation-in-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
