@@ -42,6 +42,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0904-fruit-into-baskets) |
 | [0496-next-greater-element-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0739-daily-temperatures](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 | [0143-reorder-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Design
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 | [0496-next-greater-element-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Matrix
 |  |
 | ------- |
