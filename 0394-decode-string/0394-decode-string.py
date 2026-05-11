@@ -4,27 +4,35 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
+        """
+        :type s: str
+        :rtype: str
+        """
         stack = []
-        curr_str = ""
-        curr_num = 0
+        current_string = ""
+        current_num = 0
         
         for char in s:
             if char.isdigit():
-                # Handle multi-digit numbers
-                curr_num = curr_num * 10 + int(char)
+                # Build the number k
+                current_num = current_num * 10 + int(char)
             elif char == '[':
-                # Push the current context to stack and reset
-                stack.append((curr_str, curr_num))
-                curr_str = ""
-                curr_num = 0
+                # Push the string built so far and the multiplier
+                stack.append((current_string, current_num))
+                current_string = ""
+                current_num = 0
             elif char == ']':
-                # Pop context and build the decoded segment
-                prev_str, num = stack.pop()
-                curr_str = prev_str + (curr_str * num)
+                # Pop the previous state
+                prev_string, num = stack.pop()
+                current_string = prev_string + (num * current_string)
             else:
-                # char is a letter
-                curr_str += char
+                # Standard character
+                current_string += char
                 
-        return curr_str
+        return current_string
 
         
+
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/leethub-v4/bcilpkkbokcopmabingnndookdogmbna
