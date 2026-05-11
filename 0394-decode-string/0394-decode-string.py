@@ -1,0 +1,30 @@
+class Solution(object):
+    def decodeString(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        stack = []
+        curr_str = ""
+        curr_num = 0
+        
+        for char in s:
+            if char.isdigit():
+                # Handle multi-digit numbers
+                curr_num = curr_num * 10 + int(char)
+            elif char == '[':
+                # Push the current context to stack and reset
+                stack.append((curr_str, curr_num))
+                curr_str = ""
+                curr_num = 0
+            elif char == ']':
+                # Pop context and build the decoded segment
+                prev_str, num = stack.pop()
+                curr_str = prev_str + (curr_str * num)
+            else:
+                # char is a letter
+                curr_str += char
+                
+        return curr_str
+
+        
