@@ -91,6 +91,7 @@
 | [0014-longest-common-prefix](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0567-permutation-in-string) |
+| [0394-decode-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0143-reorder-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0394-decode-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 | [0206-reverse-linked-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
