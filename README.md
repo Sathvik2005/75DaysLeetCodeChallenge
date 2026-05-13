@@ -151,6 +151,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0278-first-bad-version) |
 ## Greedy
 |  |
 | ------- |
@@ -303,4 +304,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
