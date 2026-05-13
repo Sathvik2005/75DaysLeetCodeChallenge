@@ -43,6 +43,7 @@
 | [0904-fruit-into-baskets](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0904-fruit-into-baskets) |
 | [0496-next-greater-element-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0162-find-peak-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0278-first-bad-version) |
+| [0162-find-peak-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0162-find-peak-element) |
 ## Greedy
 |  |
 | ------- |
