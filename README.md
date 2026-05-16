@@ -66,6 +66,7 @@
 | [0904-fruit-into-baskets](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0904-fruit-into-baskets) |
 | [0567-permutation-in-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0567-permutation-in-string) |
 | [0496-next-greater-element-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0016-3sum-closest](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0567-permutation-in-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0567-permutation-in-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [0143-reorder-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0143-reorder-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
