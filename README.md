@@ -205,6 +205,7 @@
 | [0412-fizz-buzz](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 | [0189-rotate-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0002-add-two-numbers](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0002-add-two-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0002-add-two-numbers](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0002-add-two-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0394-decode-string) |
+| [0002-add-two-numbers](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0002-add-two-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
