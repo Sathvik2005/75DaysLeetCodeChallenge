@@ -188,6 +188,7 @@
 | [0496-next-greater-element-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0394-decode-string) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -261,6 +262,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0199-binary-tree-right-side-view](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -276,6 +278,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0199-binary-tree-right-side-view](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -298,6 +301,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0199-binary-tree-right-side-view](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
