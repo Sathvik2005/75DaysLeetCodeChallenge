@@ -45,6 +45,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0875-koko-eating-bananas) |
+| [1046-last-stone-weight](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
