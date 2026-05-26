@@ -1,5 +1,3 @@
-from collections import Counter
-
 class Solution(object):
     def leastInterval(self, tasks, n):
         """
@@ -21,6 +19,7 @@ class Solution(object):
         
         # 5. The answer is the larger of the formula result or total tasks
         return max(min_intervals, len(tasks))
+        
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
