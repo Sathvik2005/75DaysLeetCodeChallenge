@@ -49,6 +49,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0733-flood-fill) |
+| [0997-find-the-town-judge](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0997-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0496-next-greater-element-i](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0621-task-scheduler](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0621-task-scheduler) |
+| [0997-find-the-town-judge](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -356,4 +358,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
