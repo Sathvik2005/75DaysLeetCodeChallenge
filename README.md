@@ -50,6 +50,7 @@
 | [0621-task-scheduler](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0733-flood-fill) |
 | [0997-find-the-town-judge](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0997-find-the-town-judge) |
+| [0200-number-of-islands](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -243,6 +244,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0036-valid-sudoku](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 | [0733-flood-fill](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0733-flood-fill) |
+| [0200-number-of-islands](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -300,6 +302,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0733-flood-fill) |
+| [0200-number-of-islands](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -309,6 +312,7 @@
 | [0112-path-sum](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0199-binary-tree-right-side-view) |
 | [0733-flood-fill](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0733-flood-fill) |
+| [0200-number-of-islands](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -350,6 +354,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0200-number-of-islands) |
 ## Interactive
 |  |
 | ------- |
