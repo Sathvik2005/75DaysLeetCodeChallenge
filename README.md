@@ -187,6 +187,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0053-maximum-subarray](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0070-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -228,6 +229,7 @@
 | [0189-rotate-array](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0002-add-two-numbers](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
@@ -382,4 +384,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
