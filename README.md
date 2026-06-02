@@ -52,6 +52,7 @@
 | [0997-find-the-town-judge](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0997-find-the-town-judge) |
 | [0200-number-of-islands](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0417-pacific-atlantic-water-flow) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0053-maximum-subarray](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
