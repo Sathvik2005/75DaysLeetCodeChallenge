@@ -111,6 +111,7 @@
 | [0344-reverse-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0567-permutation-in-string) |
 | [0394-decode-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0394-decode-string) |
+| [0005-longest-palindromic-substring](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0005-longest-palindromic-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | [0016-3sum-closest](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0567-permutation-in-string](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0567-permutation-in-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0005-longest-palindromic-substring](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0005-longest-palindromic-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0198-house-robber](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0322-coin-change) |
 | [0213-house-robber-ii](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0213-house-robber-ii) |
+| [0005-longest-palindromic-substring](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
