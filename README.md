@@ -56,6 +56,7 @@
 | [0198-house-robber](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0322-coin-change) |
 | [0213-house-robber-ii](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0278-first-bad-version](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0278-first-bad-version) |
 | [0162-find-peak-element](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0875-koko-eating-bananas) |
+| [0300-longest-increasing-subsequence](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0322-coin-change](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0322-coin-change) |
 | [0213-house-robber-ii](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0213-house-robber-ii) |
 | [0005-longest-palindromic-substring](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0005-longest-palindromic-substring) |
+| [0300-longest-increasing-subsequence](https://github.com/Sathvik2005/75-Days-Of-LeetCode-Challenge/tree/master/0300-longest-increasing-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
